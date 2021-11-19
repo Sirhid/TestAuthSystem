@@ -11,6 +11,7 @@ namespace TestAuthSystem.Application.Interfaces
     public interface IAccountService
     {
         Task<List<UserLoginAttemptsDTO>> GetUserLoginAttemptsByEmail(string email);
+        Task<UserDTO> generatesnewrandom(Guid Id);
         Task<List<MetricStatisticDTO>> GetStatictics(DateTime startDate, DateTime endDate, string metric, bool isSuccess);
     }
 }

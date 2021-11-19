@@ -104,6 +104,8 @@ namespace TestAuthSystem.Infrastructure.Identity.Services
             return stat;
         }
 
+      
+
 
         public async Task<List<UserLoginAttemptsDTO>> GetUserLoginAttemptsByEmail(string email)
         {
@@ -131,6 +133,52 @@ namespace TestAuthSystem.Infrastructure.Identity.Services
 
 
         }
+
+        public async Task<UserDTO> generatesnewrandom(Guid Id)
+        {
+            string[] FirstName = new string[] { "aaron", "abdul", "abe", "abel", "abraham", "adam", "adan", "adolfo", "adolph", "adrian" };
+            string[] lastName = new string[] { "abbott", "acosta", "adams", "adkins", "aguilar" };
+            Random rand = new Random(DateTime.Now.Second);
+
+            try
+            {
+                var itemToRemove = _context.User.SingleOrDefault(x => x.Id == Id.ToString()); //returns a single item.
+
+                if (itemToRemove!=null)
+                {
+                    _context.Entry(itemToRemove).State = EntityState.Deleted;
+                    var delete = await _context.SaveChangesAsync();
+                    if (delete > 0)
+                    {
+                        var use = new User();
+                        use.FirstName = FirstName[rand.Next(0, FirstName.Length - 1)];
+                        use.LastName = lastName[rand.Next(0, FirstName.Length - 1)];
+                        var savednewuser = _context.Users.Add(use);
+                        var result = await _context.SaveChangesAsync();
+                        if (result > 0)
+                        {
+                            return null;
+
+                        }
+                    }
+                }
+              
+                
+
+               
+                return null;
+
+            }
+            catch (Exception ex)
+            {
+
+                throw;
+            }
+            
+         }
+
+
+     
     }
 }
 

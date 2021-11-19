@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -11,6 +12,7 @@ namespace TestAuthSystem.WebApi.Controllers
 {
     [Route("api/oauth")]
     [ApiController]
+    [Authorize]
     public class AccountController : ControllerBase
     {
         private readonly IAccountService _accountService;
@@ -28,6 +30,11 @@ namespace TestAuthSystem.WebApi.Controllers
         public async Task<IActionResult> GetStatistics([FromQuery] DateTime startDate, [FromQuery] DateTime endDate, [FromQuery] string metric, [FromQuery] bool isSuccess)
         {
             return Ok(await _accountService.GetStatictics(startDate, endDate, metric,isSuccess));
+        }
+        [HttpGet("get-by-generatesnewrandom/{Userid}")]
+        public async Task<IActionResult> generatesnewrandom (Guid Userid)
+        {
+            return Ok(await _accountService.generatesnewrandom(Userid));
         }
         
     }

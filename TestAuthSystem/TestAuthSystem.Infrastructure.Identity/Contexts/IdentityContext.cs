@@ -14,6 +14,7 @@ namespace TestAuthSystem.Infrastructure.Identity.Contexts
         {
         }
         public DbSet<UserLoginAttempt> UserLoginAttempt { get; set; }
+        public DbSet<User> User { get; set; }
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);

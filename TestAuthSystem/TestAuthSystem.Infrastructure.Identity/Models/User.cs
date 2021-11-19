@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using HRIS.Application.DTOs.Account;
+using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -16,5 +17,10 @@ namespace TestAuthSystem.Infrastructure.Identity.Models
         public string LastName { get; set; }
 
         public ICollection<UserLoginAttempt> UserLoginAttempts { get; set; }
+        public List<RefreshToken> RefreshTokens { get; set; }
+        public bool OwnsToken(string token)
+        {
+            return this.RefreshTokens?.Find(x => x.Token == token) != null;
+        }
     }
 }
