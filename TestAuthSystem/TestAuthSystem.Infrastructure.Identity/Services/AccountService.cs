@@ -16,14 +16,8 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using TestAuthSystem.Application.DTOs.Account;
-using TestAuthSystem.Application.DTOs.Email;
-using TestAuthSystem.Application.Enums;
-using TestAuthSystem.Application.Exceptions;
 using TestAuthSystem.Application.Interfaces;
-using TestAuthSystem.Application.Wrappers;
-using TestAuthSystem.Domain.Settings;
 using TestAuthSystem.Infrastructure.Identity.Contexts;
-using TestAuthSystem.Infrastructure.Identity.Helpers;
 using TestAuthSystem.Infrastructure.Identity.Models;
 
 namespace TestAuthSystem.Infrastructure.Identity.Services
