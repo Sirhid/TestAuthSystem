@@ -1,0 +1,14 @@
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Shared\bin\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Shared.deps.json
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Shared\bin\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Shared.dll
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Shared\bin\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Shared.pdb
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Shared\bin\Release\netcoreapp3.1\TestAuthSystem.Application.dll
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Shared\bin\Release\netcoreapp3.1\TestAuthSystem.Domain.dll
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Shared\bin\Release\netcoreapp3.1\TestAuthSystem.Application.pdb
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Shared\bin\Release\netcoreapp3.1\TestAuthSystem.Domain.pdb
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Shared\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Shared.csproj.AssemblyReference.cache
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Shared\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Shared.AssemblyInfoInputs.cache
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Shared\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Shared.AssemblyInfo.cs
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Shared\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Shared.csproj.CoreCompileInputs.cache
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Shared\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Shared.csproj.CopyComplete
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Shared\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Shared.dll
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Shared\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Shared.pdb

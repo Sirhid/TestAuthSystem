@@ -1,0 +1,14 @@
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Persistence\bin\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Persistence.deps.json
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Persistence\bin\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Persistence.dll
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Persistence\bin\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Persistence.pdb
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Persistence\bin\Release\netcoreapp3.1\TestAuthSystem.Application.dll
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Persistence\bin\Release\netcoreapp3.1\TestAuthSystem.Domain.dll
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Persistence\bin\Release\netcoreapp3.1\TestAuthSystem.Application.pdb
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Persistence\bin\Release\netcoreapp3.1\TestAuthSystem.Domain.pdb
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Persistence\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Persistence\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Persistence\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Persistence\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Persistence\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Persistence.csproj.CopyComplete
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Persistence\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Persistence.dll
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Persistence\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Persistence.pdb

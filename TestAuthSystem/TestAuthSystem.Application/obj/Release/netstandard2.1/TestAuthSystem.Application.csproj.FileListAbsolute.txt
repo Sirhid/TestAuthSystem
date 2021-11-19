@@ -1,0 +1,12 @@
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Application\obj\Release\netstandard2.1\TestAuthSystem.Application.csproj.AssemblyReference.cache
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Application\obj\Release\netstandard2.1\TestAuthSystem.Application.AssemblyInfoInputs.cache
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Application\obj\Release\netstandard2.1\TestAuthSystem.Application.AssemblyInfo.cs
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Application\obj\Release\netstandard2.1\TestAuthSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Application\bin\Release\netstandard2.1\TestAuthSystem.Application.deps.json
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Application\bin\Release\netstandard2.1\TestAuthSystem.Application.dll
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Application\bin\Release\netstandard2.1\TestAuthSystem.Application.pdb
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Application\bin\Release\netstandard2.1\TestAuthSystem.Domain.dll
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Application\bin\Release\netstandard2.1\TestAuthSystem.Domain.pdb
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Application\obj\Release\netstandard2.1\TestAuthSystem.Application.csproj.CopyComplete
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Application\obj\Release\netstandard2.1\TestAuthSystem.Application.dll
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Application\obj\Release\netstandard2.1\TestAuthSystem.Application.pdb

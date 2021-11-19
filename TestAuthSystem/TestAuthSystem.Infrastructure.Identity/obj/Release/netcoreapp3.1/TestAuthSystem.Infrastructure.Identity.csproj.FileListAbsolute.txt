@@ -1,0 +1,17 @@
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Identity\bin\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Identity.deps.json
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Identity\bin\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Identity.runtimeconfig.json
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Identity\bin\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Identity.runtimeconfig.dev.json
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Identity\bin\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Identity.dll
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Identity\bin\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Identity.pdb
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Identity\bin\Release\netcoreapp3.1\TestAuthSystem.Application.dll
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Identity\bin\Release\netcoreapp3.1\TestAuthSystem.Domain.dll
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Identity\bin\Release\netcoreapp3.1\TestAuthSystem.Application.pdb
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Identity\bin\Release\netcoreapp3.1\TestAuthSystem.Domain.pdb
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Identity\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Identity.csproj.AssemblyReference.cache
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Identity\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Identity.AssemblyInfoInputs.cache
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Identity\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Identity.AssemblyInfo.cs
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Identity\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Identity.csproj.CoreCompileInputs.cache
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Identity\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Identity.csproj.CopyComplete
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Identity\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Identity.dll
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Identity\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Identity.pdb
+C:\Users\saheed.alabi\Desktop\TestAuthSystem\TestAuthSystem\TestAuthSystem.Infrastructure.Identity\obj\Release\netcoreapp3.1\TestAuthSystem.Infrastructure.Identity.genruntimeconfig.cache
