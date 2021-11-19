@@ -26,6 +26,24 @@ namespace TestAuthSystem.WebApi.Controllers
         {
             return Ok(await _accountService.GetUserLoginAttemptsByEmail(email));
         }
+        [HttpGet("get-by-yearly/{startDate}/{endDate}/{isSuccess}")]
+        public async Task<IActionResult> GetYearlyStats(DateTime startDate, DateTime endDate, bool isSuccess)
+        {
+            return Ok(await _accountService.GetYearlyStats(startDate, endDate, isSuccess));
+        }
+
+        [HttpGet("get-by-Hourly/{startDate}/{endDate}/{isSuccess}")]
+        public async Task<IActionResult> GetHourlyStats(DateTime startDate, DateTime endDate, bool isSuccess)
+        {
+            return Ok(await _accountService.GetHourlyStats(startDate, endDate, isSuccess));
+        }
+
+        [HttpGet("get-by-GetMonthlyStats/{startDate}/{endDate}/{isSuccess}")]
+        public async Task<IActionResult> GetMonthlyStats(DateTime startDate, DateTime endDate, bool isSuccess)
+        {
+            return Ok(await _accountService.GetMonthlyStats(startDate, endDate, isSuccess));
+        }
+
         [HttpGet("get-stats")]
         public async Task<IActionResult> GetStatistics([FromQuery] DateTime startDate, [FromQuery] DateTime endDate, [FromQuery] string metric, [FromQuery] bool isSuccess)
         {

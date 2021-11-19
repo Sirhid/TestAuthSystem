@@ -64,7 +64,7 @@ namespace TestAuthSystem.Infrastructure.Identity.Services
             return response;
         }
 
-        private async Task<List<MetricStatisticDTO>> GetHourlyStats(DateTime startDate, DateTime endDate, bool? isSuccess)
+        public async Task<List<MetricStatisticDTO>> GetHourlyStats(DateTime startDate, DateTime endDate, bool? isSuccess)
         {
             var stat = await _context.UserLoginAttempt
                        .Where(c => c.AttemptTime >= startDate && c.AttemptTime <= endDate && c.IsSuccess == isSuccess)
@@ -77,7 +77,7 @@ namespace TestAuthSystem.Infrastructure.Identity.Services
 
             return stat;
         }
-        private async Task<List<MetricStatisticDTO>> GetMonthlyStats(DateTime startDate, DateTime endDate, bool? isSuccess)
+        public async Task<List<MetricStatisticDTO>> GetMonthlyStats(DateTime startDate, DateTime endDate, bool? isSuccess)
         {
             var stat = await _context.UserLoginAttempt
                        .Where(c => c.AttemptTime >= startDate && c.AttemptTime <= endDate && c.IsSuccess == isSuccess)
@@ -90,7 +90,7 @@ namespace TestAuthSystem.Infrastructure.Identity.Services
 
             return stat;
         }
-        private async Task<List<MetricStatisticDTO>> GetYearlyStats(DateTime startDate, DateTime endDate, bool isSuccess)
+        public async Task<List<MetricStatisticDTO>> GetYearlyStats(DateTime startDate, DateTime endDate, bool isSuccess)
         {
             var stat = await _context.UserLoginAttempt
                        .Where(c => c.AttemptTime >= startDate && c.AttemptTime <= endDate && c.IsSuccess == isSuccess)
